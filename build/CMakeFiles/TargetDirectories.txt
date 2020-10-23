@@ -1,0 +1,9 @@
+C:/Users/Vivan/Documents/GitHub/Stockly/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/Vivan/Documents/GitHub/Stockly/build/CMakeFiles/Experimental.dir
+C:/Users/Vivan/Documents/GitHub/Stockly/build/CMakeFiles/dataPY.dir
+C:/Users/Vivan/Documents/GitHub/Stockly/build/CMakeFiles/Continuous.dir
+C:/Users/Vivan/Documents/GitHub/Stockly/build/CMakeFiles/Nightly.dir
+C:/Users/Vivan/Documents/GitHub/Stockly/build/CMakeFiles/PACKAGE.dir
+C:/Users/Vivan/Documents/GitHub/Stockly/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/Vivan/Documents/GitHub/Stockly/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Vivan/Documents/GitHub/Stockly/build/CMakeFiles/ZERO_CHECK.dir
