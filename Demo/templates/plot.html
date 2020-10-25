@@ -1,11 +1,9 @@
 {%extends "layout.html"%} {%block content%}
-
-<script type="text/javascript" src={{cdn_js | safe}} integrity="sha384-JayppSWSRBsibIZqI8S4vAb1oFgLL0uhNvSn8cmArlOvYOwfFjYeyY5UWwJ+K0SU" crossorigin="anonymous"></script>
-
-
+<link rel="stylesheet" href={{cdn_css | safe}} type="text/css" />
+<script type="text/javascript" src={{cdn_js | safe}}></script>
 <div class="about">
-    <h1>My about page</h1>
-    <p>This is a test website again</p>
+    <h1>Stock Analysis of SOBHA.NS</h1>
+    <p>CANDLESTICK CHART FOR STOCK ANALYSIS</p>
 </div>
 
 {{script1 | safe}} {{div1 | safe}} {%endblock%}
