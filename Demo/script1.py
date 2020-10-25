@@ -28,13 +28,8 @@ def plot():
     df["Middle"]=(df.Open+df.Close)/2
     df["Height"]=abs(df.Close-df.Open)
 
-
-
     date_increase=df.index[df.Close > df.Open]
     date_decrease=df.index[df.Close < df.Open]
-
-    # type(date_increase)
-    # date_decrease
 
     p=figure(x_axis_type='datetime', width=1000, height=300, sizing_mode='scale_width')
     p.title.text="SOBHA.NS Candlestick Chart"
@@ -53,9 +48,7 @@ def plot():
 
     cdn_js=CDN.js_files
     cdn_css=CDN.css_files
-# output_file("CS.html")
-# show(p)
-    
+
 
 @app.route('/')
 def home():
