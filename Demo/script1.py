@@ -46,8 +46,11 @@ def plot():
     # segments in stock analysis displays the highs and the lows of stocks for particular day
     script1, div1 = components(p)
 
-    cdn_js=CDN.js_files
+    cdn_js=CDN.js_files[0]
     cdn_css=CDN.css_files
+    
+    return render_template("plot.html",
+                            script1=script1, div1=div1, cdn_css=cdn_css, cdn_js=cdn_js )
 
 
 @app.route('/')
