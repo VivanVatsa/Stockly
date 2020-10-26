@@ -1,6 +1,6 @@
 # Stockly
 ------------------
-![Live Preview - Stockly](https://candlestocker.herokuapp.com/plot)
+![Live Preview - Stockly](https://candlestocker.herokuapp.com)
 ------------------
 ### Stock Analysis 
 * Created Candle Chart Analysis with Bokeh, Pandas & Flask.
